@@ -1,0 +1,25 @@
+{
+    "player.png" : {
+        "grid" : (48, 48),
+        "anims" : {
+            "idle_down" : (0, 5, 0),
+            "idle_right" : (0, 5, 1),
+            "walk_right" : (0, 5, 4),
+            "idle_up" : (0, 5, 2),
+            "walk_down" : (0, 5, 3),
+            "walk_up" : (0, 5, 5),
+            "attack_down" : (0, 3, 6),
+            "attack_right" : (0, 3, 7),
+            "attack_up" : (0, 3, 8),
+            "death" : (0, 2, 9)
+        }
+    },
+
+    "slime.png" : {
+        "grid" : (32, 32),
+        "anims"  : {
+            "idle_front" : (0, 4, 0),
+            "idle_right" : (0, 4, 1)
+        }
+    }
+}
